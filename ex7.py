@@ -1,3 +1,5 @@
+__author__ = 'ray'
+
 #Concatenation n Escape Sequence Cancellation
 #Special Use of the '+' Character
 
@@ -12,7 +14,3 @@ c='bur'
 d='ger'
 print(a+b,end='') # New-Line x-ter herein Overridden
 print(c+d) # NB:NO QUOTES as they're defined variables
-
-
-
-
